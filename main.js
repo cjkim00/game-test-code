@@ -264,7 +264,7 @@ AM.downloadAll(function () {
     function pause() {
        // alert("TEST");
         //return;
-        setTimeout(pause, 2000);s
+        setTimeout(pause, 2000);
     }
     pause();
     k = 0;
